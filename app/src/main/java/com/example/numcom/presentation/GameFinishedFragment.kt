@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.activity.OnBackPressedCallback
 import androidx.fragment.app.FragmentManager
-import com.example.composition.presentation.ChooseLevelFragment
+import com.example.numcom.presentation.ChooseLevelFragment
 import com.example.numcom.R
 import com.example.numcom.databinding.FragmentGameFinishedBinding
 import com.example.numcom.domain.entity.GameResult

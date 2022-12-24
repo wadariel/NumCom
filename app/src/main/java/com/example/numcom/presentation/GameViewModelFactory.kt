@@ -4,7 +4,7 @@ package com.example.numcom.presentation
 import android.app.Application
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.composition.presentation.GameViewModel
+import com.example.numcom.presentation.GameViewModel
 import com.example.numcom.domain.entity.Level
 
 class GameViewModelFactory(
