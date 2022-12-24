@@ -1,10 +1,15 @@
 package com.example.numcom.presentation
 
+import android.content.res.ColorStateList
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.TextView
+import androidx.core.content.ContextCompat
+import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.ViewModelProvider.AndroidViewModelFactory
 import com.example.numcom.R
 import com.example.numcom.databinding.FragmentGameBinding
 import com.example.numcom.domain.entity.GameResult
